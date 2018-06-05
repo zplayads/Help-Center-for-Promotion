@@ -6,7 +6,7 @@ Here are everything you want to know about how to use ZPLAY Ads platform to prom
 #### 1. [系统使用手册](系统使用手册.md)
 
 #### 2. 监测相关
-- [ZPLAY Ads广告主应用激活回传接口](Tracking/ZPLAY Ads广告主应用激活回传接口.md)
+- [ZPLAY Ads广告主应用激活回传接口](Tracking/ZPLAYAds广告主应用激活回传接口.md)
 - [Adjust监测链接获取指南](Tracking/Adjust监测链接获取指南.md)
 - [Appsflyer监测链接获取指南](Tracking/Appsflyer监测链接获取指南.md)
 - [TalkingData监测链接获取指南](Tracking/TalkingData监测链接获取指南.md)
@@ -21,4 +21,4 @@ Here are everything you want to know about how to use ZPLAY Ads platform to prom
 
 
 #### 2. tracking your performance
-[ZPLAY Ads Advertiser Install Tracking](Tracking/ZPLAY Ads Advertiser Install Tracking.md)
+- [ZPLAY Ads Advertiser Install Tracking](Tracking/ZPLAY-Ads-Advertiser-Install-Tracking.md)
