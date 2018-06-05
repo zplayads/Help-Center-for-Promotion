@@ -19,11 +19,7 @@ Here are everything you want to know about how to use ZPLAY Ads platform to prom
 ## For English user
 #### 1. [Guides about how to use ZPLAY Ads platform](guides.md)
 
-#### 2. Tracking
-- [ZPLAY Ads Advertiser Server to Server Install Tracking](Tracking/ZPLAY Ads Advertiser Server to Server Install Tracking.md)
-- []()
-- [TalkingData Tracking Help Document](TalkingData Tracking Help Document.md)
-
 
 #### 2. tracking your performance
 - [ZPLAY Ads Advertiser Install Tracking](Tracking/ZPLAY-Ads-Advertiser-Install-Tracking.md)
+Appsflyer Tracking Help Document.md
