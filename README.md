@@ -15,7 +15,7 @@ Here are everything you want to know about how to use ZPLAY Ads platform to prom
 
 
 
-## 英文用户
+## For English user
 [系统使用手册](guides.md)
 
 
