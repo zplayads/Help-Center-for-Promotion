@@ -20,9 +20,9 @@ Here are everything you want to know about how to use ZPLAY Ads platform to prom
 #### 1. [Guides about how to use ZPLAY Ads platform](guides.md)
 
 #### 2. Tracking your performance
-- [ZPLAY Ads Advertiser Server to Server Install Tracking](Tracking/ZPLAY20%Ads20%Advertiser20%Server20%to20%Server20%Install20%Tracking.md)
-- [TalkingData Tracking Help Document](Tracking/TalkingData Tracking Help Document.md)
-- [TUNE Tracking Help Document](https://github.com/zplayads/Help-Center-for-Promotion/blob/master/Tracking/TUNE%20Tracking%20Help%20Document.md)
-- [Appsflyer Tracking Help Document](https://github.com/zplayads/Help-Center-for-Promotion/blob/master/Tracking/Appsflyer%20Tracking%20Help%20Document.md)
-- [Adjust Tracking Help Document](https://github.com/zplayads/Help-Center-for-Promotion/blob/master/Tracking/Adjust%20Tracking%20Help%20Document.md)
+- [ZPLAY Ads Advertiser Server to Server Install Tracking](Tracking/ZPLAY%20Ads%20Advertiser%20Server%20to%20Server%20Install%20Tracking.md)
+- [TalkingData Tracking Help Document](Tracking/TalkingData%20Tracking%20Help%20Document.md)
+- [TUNE Tracking Help Document](Tracking/TUNE%20Tracking%20Help%20Document.md)
+- [Appsflyer Tracking Help Document](Tracking/Appsflyer%20Tracking%20Help%20Document.md)
+- [Adjust Tracking Help Document](Tracking/Adjust%20Tracking%20Help%20Document.md)
 
