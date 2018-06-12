@@ -9,8 +9,8 @@
 ![image](imgs/001adjustnewtracker1.png) 
 #### 5. You can get CLICK URL and IMPRESSION URL in this page
 ![image](imgs/001adjustnewtracker2.png) 
-#### 6.	When you creat campaign and edit campaign, fill in CLICK URL into "Tracking URL" of ZPLAY Ads, and fill in IMPRESSION URL in "View-through" of ZPLAY Ads
-![image](imgs/000zplay.png)
+#### 6.	When you creat campaign and edit campaign on ZPLAY Ads platform, fill in CLICK URL into "Tracking URL" of ZPLAY Ads, and fill in IMPRESSION URL in "View-Through Tracking URL" of ZPLAY Ads
+![image](imgs/enzplay.png)
 
 
 
