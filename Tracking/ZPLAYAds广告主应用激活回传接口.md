@@ -12,7 +12,7 @@ https://callback.zplayads.com/effect/advertiser?click_id={click_id}&campaign_nam
 
 ### 3、数据回传参数说明
 > 以下参数由ZPLAY Ads生成，通用的符号为{}，在广告展示及产生点击时，我们通过将替换完的值传递给您，您在回传激活数据时需将参数一并回传。
-
+>
 > 当激活发生在Android系统时，imei、advertising_id及android_id三个参数必须回传一个。
 
 |参数|是否必须回传|说明|
