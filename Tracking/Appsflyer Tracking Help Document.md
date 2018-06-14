@@ -2,8 +2,8 @@
 
 ![image](imgs/004af1.png)
 
-#### 2. You can get your Tracking Link and View-Tracking Link in this page
+#### 2. You can get your Tracking Link and View-Through Tracking Link in this page
 ![image](imgs/004af2.png)
 
-#### 3.	When you creat campaign and edit campaign, fill in tracking URL into "Tracking URL" of ZPLAY Ads, and fill in View-through URL in "View-through" of ZPLAY Ads
-![image](imgs/000zplay.png)
+#### 3.	When you creat campaign and edit campaign on ZPLAY Ads platform, fill in Tracking URL into "Tracking URL" of ZPLAY Ads, and fill in View-Through Tracking URL in "View-Through Tracking URL" of ZPLAY Ads
+![image](imgs/enzplay.png)

@@ -20,8 +20,8 @@
 #### 7.仍旧在ZPLAY Ads的设置中，选中Postback， 点击Custom进行激活回传设置，若不进行此步骤，ZPLAY Ads将无法收到激活数据
 ![image](imgs/002tuneinstall.png)
 
-#### 8.像下图中设置激活回传设置
+#### 8.按照下图中设置激活回传设置
 ![image](imgs/002tune1.png)
 
-#### 9.	在您创建广告或者编辑广告将获取到的URL填写到ZPLAY Ads的监测地址框内，
-![image](imgs/000zplay.png)
+#### 9.	在您创建广告或者编辑广告时将获取到的Click URL填写到ZPLAY Ads的监测地址框内，将Impression URL填写到ZPLAY Ads的展示监测地址框内
+![image](imgs/cnzplay.png)
