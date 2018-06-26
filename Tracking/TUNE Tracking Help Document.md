@@ -23,5 +23,5 @@
 #### 8.Set postback setting, as below
 ![image](imgs/002tune1.png)
 
-#### 9.	Fill in tracking URL into "Tracking URL" of ZPLAY Ads when you creat campaign or edit campaign
-![image](imgs/000zplay.png)
+#### 9.	Fill in Click URL into "Tracking URL" of ZPLAY Ads and fill in Impression URL into "View-Through Tracking URL" when you creat campaign or edit campaign on ZPLAY Ads platform
+![image](imgs/enzplay.png)
