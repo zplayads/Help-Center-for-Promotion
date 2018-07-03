@@ -1,5 +1,5 @@
 
-#### 1.	Choose your app in “已调试产品” and enter into the “总览” page.
+#### 1.	Choose your app in “已调试产品”.
 ![image](imgs/005热云_选择产品.png)
 
 #### 2.	Cilck “配置” on the left side of the page, and then choose “推广活动管理”.
