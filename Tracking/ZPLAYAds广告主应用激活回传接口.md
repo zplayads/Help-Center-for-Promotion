@@ -29,7 +29,7 @@ https://callback.zplayads.com/effect/advertiser?click_id={click_id}&campaign_nam
 |price|必须|广告的CPI单价|
 |cost_model|必须|广告计费方式|
 |secret|必须|秘钥，由 ZPALY Ads 生成|
-|conversion_type|必须|转化类型，可用的值及对应ID如下：下载：1；激活：2；付费：3；自定义：（自定义的ID要提前与我们确认）|
+|conversion_type|必须|转化类型，可用的值及含义如下：下载或激活：install；如需自定义转化类型，请提前与我们的客户经理确认|
 
 
 ### 4、返回参数
@@ -37,7 +37,7 @@ https://callback.zplayads.com/effect/advertiser?click_id={click_id}&campaign_nam
 
 ## 三、代码示例
 #### Android：
-https://callback.zplayads.com/effect/advertiser?click_id=0bts0K1DtjEM0tHfZA07I1WP3pTzxY&campaign_name=EA2645B8-E42A-4817-1780-B2A2A4D47E58&promote_app_id=1000250&traffic_app_id=33299445&ad_unit_id=3456778&imei=864375024316326&advertising_id=eacutmd&price=30&cost_model=cpi&secret=8jdyeh3b583dhjs&conversion_type=1
+https://callback.zplayads.com/effect/advertiser?click_id=0bts0K1DtjEM0tHfZA07I1WP3pTzxY&campaign_name=EA2645B8-E42A-4817-1780-B2A2A4D47E58&promote_app_id=1000250&traffic_app_id=33299445&ad_unit_id=3456778&imei=864375024316326&advertising_id=eacutmd&price=30&cost_model=cpi&secret=8jdyeh3b583dhjs&conversion_type=install
 
 #### iOS：
-https://callback.zplayads.com/effect/advertiser?click_id=0btsuijxEM0tHfZA07I1WP3paytz&campaign_name=4B767D4A-A6A6-4AB5-3B76-FCA5DD9DD276&promote_app_id=1000250&traffic_app_id=33299445&ad_unit_id=3456778&idfa=40740166-76F7-4069-A207-B0DF290754A9&price=30&cost_model=cpi&secret=8jdyeh3b583dhjs&conversion_type=1
+https://callback.zplayads.com/effect/advertiser?click_id=0btsuijxEM0tHfZA07I1WP3paytz&campaign_name=4B767D4A-A6A6-4AB5-3B76-FCA5DD9DD276&promote_app_id=1000250&traffic_app_id=33299445&ad_unit_id=3456778&idfa=40740166-76F7-4069-A207-B0DF290754A9&price=30&cost_model=cpi&secret=8jdyeh3b583dhjs&conversion_type=install
