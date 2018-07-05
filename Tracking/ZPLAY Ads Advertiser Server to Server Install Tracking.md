@@ -33,7 +33,7 @@ https://callback.zplayads.com/effect/advertiser?click_id={click_id}&campaign_nam
 |price|required||
 |cost_model|required||
 |secret|required|the secret key|
-|conversion_type|required|value and ID as follows：Download：1；Install：2；Pay：3；Custom: (It's necessary that confirming the custom ID before it’s used)|
+|conversion_type|required|available value is just install, if there is a need for custom event, please confirm the custom value with our account manager before it’s used|
 
 
 
@@ -43,7 +43,7 @@ If the response is normal, return string OK
 
 ## CODE SAMPLE
 #### Android：
-https://callback.zplayads.com/effect/advertiser?click_id=0bts0K1DtjEM0tHfZA07I1WP3pTzxY&campaign_name=EA2645B8-E42A-4817-1780-B2A2A4D47E58&promote_app_id=1000250&traffic_app_id=33299445&ad_unit_id=3456778&imei=864375024316326&advertising_id=eacutmd&price=30&cost_model=cpi&secret=8jdyeh3b583dhjs&conversion_type=1
+https://callback.zplayads.com/effect/advertiser?click_id=0bts0K1DtjEM0tHfZA07I1WP3pTzxY&campaign_name=EA2645B8-E42A-4817-1780-B2A2A4D47E58&promote_app_id=1000250&traffic_app_id=33299445&ad_unit_id=3456778&imei=864375024316326&advertising_id=eacutmd&price=30&cost_model=cpi&secret=8jdyeh3b583dhjs&conversion_type=install
 
 #### iOS：
-https://callback.zplayads.com/effect/advertiser?click_id=0btsuijxEM0tHfZA07I1WP3paytz&campaign_name=4B767D4A-A6A6-4AB5-3B76-FCA5DD9DD276&promote_app_id=1000250&traffic_app_id=33299445&ad_unit_id=3456778&idfa=40740166-76F7-4069-A207-B0DF290754A9&price=30&cost_model=cpi&secret=8jdyeh3b583dhjs&conversion_type=1
+https://callback.zplayads.com/effect/advertiser?click_id=0btsuijxEM0tHfZA07I1WP3paytz&campaign_name=4B767D4A-A6A6-4AB5-3B76-FCA5DD9DD276&promote_app_id=1000250&traffic_app_id=33299445&ad_unit_id=3456778&idfa=40740166-76F7-4069-A207-B0DF290754A9&price=30&cost_model=cpi&secret=8jdyeh3b583dhjs&conversion_type=install
