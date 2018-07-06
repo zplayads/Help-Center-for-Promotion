@@ -33,10 +33,7 @@ https://callback.zplayads.com/effect/advertiser?click_id={click_id}&campaign_nam
 |price|required||
 |cost_model|required||
 |secret|required|the secret key|
-|conversion_type|required|available value is just install, if there is a need for custom event, please confirm the custom value with our account manager before it’s used|
-
-
-
+|conversion_type|required|conversion type|
 
 ### 4. Return Parameter
 If the response is normal, return string OK
