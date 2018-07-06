@@ -29,7 +29,7 @@ https://callback.zplayads.com/effect/advertiser?click_id={click_id}&campaign_nam
 |price|必须|广告的CPI单价|
 |cost_model|必须|广告计费方式|
 |secret|必须|秘钥，由 ZPALY Ads 生成|
-|conversion_type|必须|转化类型，可用的值及含义如下：下载或激活：install；如需自定义转化类型，请提前与我们的客户经理确认|
+|conversion_type|必须|转化类型|
 
 
 ### 4、返回参数
