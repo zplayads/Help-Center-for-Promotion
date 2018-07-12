@@ -10,7 +10,7 @@ Before an advertising is deployed, the Tracking URL should pass the testing by Z
 
 ## INTRODUCTION
 ### 1. Postback URL Request
-https://callback.zplayads.com/effect/advertiser?click_id={click_id}&campaign_name={campaign_name}&promote_app_id={promote_app_id}&traffic_app_id={traffic_app_id}&ad_unit_id={ad_unit_id}&idfa={idfa}&imei={imei}&advertising_id={advertising_id}&android_id={android_id}&price={price}&cost_mode={cost_mode}&secret={secret}&conversion_type={conversion_type}
+https://callback.zplayads.com/effect/advertiser?click_id={click_id}&campaign_name={campaign_name}&promote_app_id={promote_app_id}&traffic_app_id={traffic_app_id}&ad_unit_id={ad_unit_id}&idfa={idfa}&imei={imei}&advertising_id={advertising_id}&android_id={android_id}&price={price}&cost_model={cost_model}&secret={secret}&conversion_type={conversion_type}
 
 ### 2. Request Type: GET
 
