@@ -6,7 +6,7 @@
 
 ## 二、接口说明
 ### 1、数据回传的请求地址
-https://callback.zplayads.com/effect/advertiser?click_id={click_id}&campaign_name={campaign_name}&promote_app_id={promote_app_id}&traffic_app_id={traffic_app_id}&ad_unit_id={ad_unit_id}&idfa={idfa}&imei={imei}&advertising_id={advertising_id}&android_id={android_id}&price={price}&cost_mode={cost_mode}&secret={secret}&conversion_type={conversion_type}
+https://callback.zplayads.com/effect/advertiser?click_id={click_id}&campaign_name={campaign_name}&promote_app_id={promote_app_id}&traffic_app_id={traffic_app_id}&ad_unit_id={ad_unit_id}&idfa={idfa}&imei={imei}&advertising_id={advertising_id}&android_id={android_id}&price={price}&cost_model={cost_model}&secret={secret}&conversion_type={conversion_type}
 
 ### 2、请求方式：GET
 
