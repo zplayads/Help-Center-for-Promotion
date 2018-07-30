@@ -12,6 +12,8 @@ Here are everything you want to know about how to use ZPLAY Ads platform to prom
 - [Appsflyer监测链接获取指南](Tracking/Appsflyer监测链接获取指南.md)
 - [TalkingData监测链接获取指南](Tracking/TalkingData监测链接获取指南.md)
 - [TUNE监测链接获取指南](Tracking/TUNE监测链接获取指南.md)
+- [热云监测链接获取指南](Tracking/热云监测链接获取指南.md)
+- [AdMaster监测链接获取指南](Tracking/AdMaster监测链接获取指南.md)
 
 
 
@@ -25,4 +27,5 @@ Here are everything you want to know about how to use ZPLAY Ads platform to prom
 - [TUNE Tracking Help Document](Tracking/TUNE%20Tracking%20Help%20Document.md)
 - [Appsflyer Tracking Help Document](Tracking/Appsflyer%20Tracking%20Help%20Document.md)
 - [Adjust Tracking Help Document](Tracking/Adjust%20Tracking%20Help%20Document.md)
-
+- [热云 Tracking Help Document](Tracking/热云_Tracking_Help_Document.md)
+- [AdMaster Tracking Help Document](Tracking/AdMaster_Tracking_Help_Document.md)
