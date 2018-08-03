@@ -1,20 +1,20 @@
 ### Index
 
-1. Introduction
+1. [Introduction](#1-introduction)
 
-2. Add Apps and Creat Campaigns
+2. [Add Apps and Creat Campaigns](#2-add-apps-and-creat-campaigns)
 
-3. Recharge Your Account
+3. [Recharge Your Account](#3-recharge-your-account)
 
-4. Report
+4. [Report](#4-report)
 
-5. Financial Management
+5. [Financial Management](#5-financial-management)
 
 ### 1 Introduction
 
 To promote your game, we suggest you start with the following steps:
 
-Step 1: Add Apps and elements for making playable material(details in 2.1-2.5)
+Step 1: Add Apps and elements for making playable material (details in 2.1-2.5)
 
 Step 2: Creat campaigns (details in 2.6-2.8)
 
@@ -28,7 +28,7 @@ Notes: The first two steps should be completed in a sequence. You need add an ap
 
 ![001](adimgscn/001en.png)
 
-##### 2.2 There are two parts in this page. The first part is Application Information, which is required. And the second part is Elements for Making Playable Material, which is selected.
+##### 2.2 There are two parts in this page. The first part is "Application Information", which is required. And the second part is "Elements for Making Playable Material", which is selected.
 
 Application Information (required):
 
@@ -36,6 +36,8 @@ Application Information (required):
 - APP Name: Please fill in the real application name.
 - Package Name: Please fill in correct bundle ID, such as "com.zplay.popstar".
 - Download URL:Please fill in correct download URL, such as https://itunes.apple.com/cn/app/id834878585, so that we can parse the correct download page.
+
+Notes: If your APP is online, click the "Please click here to update the APP information if the APP is online". Fill in the download URL and click "SEARCH", and your APP's information will be filled automatically.
 
 ![002](adimgscn/002en.png)
 
@@ -45,7 +47,7 @@ Upload pictures, audios, videos, or other elements of your app as much as you ca
 
 ![003](adimgscn/003en.png)
 
-After filling in the two parts above, select Add Only, then your files will be uploaded and your information will be saved; if you select Add and Creat Campaign, your files will be uploaded and you will jump to the "AD CAMPAIGN" page to creat campaign. (About creating campaign, see in 2.6)
+After filling in the two parts above, select "Add Only", then your files will be uploaded and your information will be saved; if you select "Add and Creat Campaign", your files will be uploaded and you will jump to the "AD CAMPAIGN" page to creat campaign. (About creating campaign, see in 2.6)
 
 ##### 2.3 There are two methods to reach Material Library. 
 
@@ -75,12 +77,12 @@ Hover over the preview button, and you will see the QR code.
 
 ##### 2.6 Click "AD CAMPAIGN" on the left side, and click "ADD CAMPAIGN" button to creat new campaign.
 
-![009](adimgscn/009.png)
+![009](adimgscn/009en.png)
 
 ##### 2.7 Fill up the information and click "Save" button. 
 
 - Budget Setting: CPI is the only cost type we support now. When using account budget, we will regard your account balance as your budget of a day. If you do not use account budget, you can set budget alternately.
-- Time Setting: Add end time according to your demands. If you haven't add end time, the campaign will end after your account balance or budget consumed up. 
+- Time Setting: Add end time according to your demands. If you haven't added end time, the campaign will end after your account balance or budget consumed up. 
 - Targeting Settings: You can set your target according to your demands.
 - View-Through Tracking URL/Tracking URL: Fill up the tracking URL in the blanks. If you have intergrated in other tracking platforms such as Appsflyer、adjust、AdMaster、TaklingData、热云、singular、TUNE, fill in the URLs in these sites. If you haven't intergrated in these platforms, you can set your tracking URL by using "Self Tracking". Click "Introduction" to check how to get tracking URL.
 
@@ -104,7 +106,7 @@ Hover over the preview button, and you will see the QR code.
 
 ![014](adimgscn/014en.png)
 
-P.S. Your ad campaign will be vaild only when the account balance is over 0.
+Notes: Your ad campaign will be vaild only when the account balance is over 0.
 
 ### 4 Report
 
