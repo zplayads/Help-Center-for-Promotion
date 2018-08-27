@@ -102,7 +102,7 @@ After filling in the information, click "Save" button to creat campain. If you c
 
 ![010](adimgscn/010en.png)
 
-### Material Library
+### 2.3 Material Library
 
 There are two methods to reach Material Library. 
 
