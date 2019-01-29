@@ -133,15 +133,15 @@ Hover over the preview button, and you will see the QR code.
 
 ### 3.1 Click "Recharge" button on the dashboard.
 
-![015](adimgscn/015en.png)
+![015](adimgscn/016en.png)
 
 ### 3.2 Enter your budget and click "Next".
 
-![016](adimgscn/016en.png)
+![016](adimgscn/017en.png)
 
 ### 3.3 We only support Paypal. Click "Save" and scan the QR code to pay. 
 
-![017](adimgscn/017en.png)
+![017](adimgscn/018en.png)
 
 Notes: Your ad campaign will be vaild only when the account balance is over 0.
 
@@ -151,18 +151,16 @@ Click "Report" button on the left side of the page.
 
 - You can see datas of each app/campaign through the filter criteria on the upper area of the page. 
 
-![018](adimgscn/018en.png)
+![018](adimgscn/019en.png)
 
 - You can see your report in four dimensions on the bottom of this page. Click blue field on the left side, and you can see the campaign data of date/app/campaign/country. At the same time, the filter criteria you have selected will be shown on the upper area of the page. P.S. Click "20170801" on the bottom, and the date on the upper area of the page will be changed to "20170801"
 
-![019](adimgscn/019en.png)
+![019](adimgscn/020en.png)
 
 
 ## 5 Financial Management
 
 Enter Financial Management page to check your financial information.
-
-![020](adimgscn/020en.png)
 
 - You can see your consume before current month in Monthly Consume table. In this table, Cost is your consume we recorded, while Amount is money you need to pay after examination. 
 
