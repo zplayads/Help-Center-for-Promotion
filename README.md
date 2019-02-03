@@ -29,4 +29,4 @@ Here are everything you want to know about how to use ZPLAY Ads platform to prom
 - [Adjust Tracking Help Document](Tracking/Adjust%20Tracking%20Help%20Document.md)
 - [热云 Tracking Help Document](Tracking/热云_Tracking_Help_Document.md)
 - [AdMaster Tracking Help Document](Tracking/AdMaster_Tracking_Help_Document.md)
-- [Umeng Tracking Help Document](Tracking/Umeng_Tracking_Help_Document.md)
+- [Umeng Tracking Help Document](Tracking/Umeng%20Tracking%20Help%20Document.md)
