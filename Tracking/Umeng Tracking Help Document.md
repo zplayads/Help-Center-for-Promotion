@@ -4,7 +4,7 @@
 #### 2. Select“添加推广计划”
 ![image](imgs/umeng_2_add_promoted_plan.png)
 
-#### 3. Fill in basic information according to your demands
+#### 3. Fill in basic information according to your demands, and the click 下一步
 ![image](imgs/umeng_3_basic_information.png)
 
 #### 4. Choose “ZPLAY Ads” in “推广渠道”，and fill in other blanks according to your demands
