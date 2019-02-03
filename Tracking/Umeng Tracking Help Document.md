@@ -25,5 +25,5 @@
 #### 9. Fill in "zplay" in the search box and swithch on the data transmission button. Only when this button is on, ZPLAY Ads can receive install information of your app, and then can settle accounts with you correctly
 ![image](imgs/umeng_8_choose_zplay.png)
 
-#### 10. In the create campaign or edit campaign page of ZPLAY Ads, fill the View-Through Tracking URL with 曝光检测代码 which is copied in step 6. And fill the Tracking URL with 点击监测链接 which is copied in step 6.
+#### 10. In the create campaign or edit campaign page of ZPLAY Ads, fill the View-Through Tracking URL with 曝光检测代码 which is copied in step 6. And fill the Tracking URL with 点击监测链接 which is copied in step 6
 ![image](imgs/umeng_9_tracking_en.png)
